@@ -1,0 +1,2 @@
+Deploy:
+https://github.com/Xilinx/finn/blob/main/notebooks/end2end_example/cybersecurity/3-build-accelerator-with-finn.ipynb
